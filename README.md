@@ -15,7 +15,7 @@ This project focuses on analyzing sales data using Python and building an intera
 - Sales performance analysis by product, region, and time
 
 ## 📊 Dashboard Preview
-![Dashboard](images/Sales_Dashboard.png)
+![Dashboard](Sales_Dashboard.png)
 
 ## 📈 Key Insights
 - Identification of top-performing products
